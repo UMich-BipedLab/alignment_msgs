@@ -1,4 +1,4 @@
-# alignment_msg
+# alignment_msgs
 ## Overview
 
 This is a ROS msg package that is required by the [sync_lidartag_apriltag](https://github.com/UMich-BipedLab/sync_lidartag_apriltag) package.
